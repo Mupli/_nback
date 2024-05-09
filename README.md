@@ -11,10 +11,12 @@ Check out the live demo at http://corporationenterprises.com/nback/
 
 ### Install 
 
+```
 npm install 
 npm add bower 
 bower install 
 npm start
+```
 
 
 
